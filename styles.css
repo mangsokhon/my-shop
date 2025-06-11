@@ -9,7 +9,7 @@
 
         body {
             font-family: 'Inter', sans-serif;
-            background-color: #808284; /* Light grey background */
+            background-color: #7f8081; /* Light grey background */
             min-height: 100vh;
             display: flex;
             flex-direction: column;
